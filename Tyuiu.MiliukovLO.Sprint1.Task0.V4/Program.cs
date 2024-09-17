@@ -4,7 +4,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        DataService dataService = new DataService();
+        DataService ds = new DataService();
         Console.Title = "Спринт #1 | Выполнил: Милюков Л. О. | ИИПб 24-2";
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #1                                                                ");
@@ -24,7 +24,7 @@ internal class Program
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                               ");
         Console.WriteLine("***************************************************************************");
-        dataService.Calculate();
+        Console.WriteLine(ds.Calculate());
         Console.ReadKey();
     }
 }
