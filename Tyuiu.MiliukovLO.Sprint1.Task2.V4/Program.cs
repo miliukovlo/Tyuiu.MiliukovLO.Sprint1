@@ -26,7 +26,7 @@ public class Program
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                               ");
         Console.WriteLine("***************************************************************************");
-        Console.WriteLine(ds.CalculateSquare(x));
+        Console.WriteLine("Площадь квадрата равна - " + ds.CalculateSquare(x));
         Console.ReadKey();
     }
 }
