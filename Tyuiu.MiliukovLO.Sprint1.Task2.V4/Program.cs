@@ -2,7 +2,7 @@
 
 public class Program
 {
-    private static void Main(string[] args)
+    public static void Main(string[] args)
     {
         DataService ds = new DataService();
         Console.Title = "Спринт #1 | Выполнил: Милюков Л. О. | ИИПб 24-2";
