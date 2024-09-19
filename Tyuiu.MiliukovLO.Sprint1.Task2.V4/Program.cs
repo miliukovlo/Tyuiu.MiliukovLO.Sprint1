@@ -1,4 +1,4 @@
-﻿using Tyuiu.Miliukov.Sprint1.Task2.V4.Lib;
+﻿using Tyuiu.MiliukovLO.Sprint1.Task2.V4.Lib;
 
 public class Program
 {
