@@ -10,6 +10,7 @@ namespace Tyuiu.MiliukovLO.Sprint1.Task4.V9.Test
         {
             var dataService = new DataService();
             Assert.AreEqual(0.798, dataService.Calculate(10, 5));
+
         }
     }
 }
