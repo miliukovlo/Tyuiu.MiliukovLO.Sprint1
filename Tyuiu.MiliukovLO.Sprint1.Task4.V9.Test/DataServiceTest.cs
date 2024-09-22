@@ -1,4 +1,4 @@
-using Tyuiu.MilyukovLO.Sprint1.Task4.V9.Lib;
+using Tyuiu.MiliukovLO.Sprint1.Task4.V9.Lib;
 
 namespace Tyuiu.MiliukovLO.Sprint1.Task4.V9.Test
 {
@@ -9,8 +9,8 @@ namespace Tyuiu.MiliukovLO.Sprint1.Task4.V9.Test
         public void CheckExpression()
         {
             var dataService = new DataService();
-            Assert.AreEqual(0.798, dataService.Calculate(10, 5));
-
+            double res = dataService.Calculate(1, 1);
+            Assert.AreEqual(-0, res);
         }
     }
 }
