@@ -39,7 +39,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{3C256AB3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MiliukovLO.Sprint1.Task4.V9", "Tuyiu.MiliukovLO.Sprint1.Task4.V9\Tyuiu.MiliukovLO.Sprint1.Task4.V9.csproj", "{4C6A5667-AA50-48FD-A7C5-131D34E81A44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MiliukovLO.Sprint1.Task4.V9.Lib", "Tuyiu.MiliukovLO.Sprint1.Task4.V9.Lib\Tyuiu.MiliukovLO.Sprint1.Task4.V9.Lib.csproj", "{B34798AC-1A78-4545-B72B-DD69B04B54AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MilyukovLO.Sprint1.Task4.V9.Lib", "Tuyiu.MiliukovLO.Sprint1.Task4.V9.Lib\Tyuiu.MilyukovLO.Sprint1.Task4.V9.Lib.csproj", "{B34798AC-1A78-4545-B72B-DD69B04B54AE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MiliukovLO.Sprint1.Task4.V9.Test", "Tuyiu.MiliukovLO.Sprint1.Task4.V9.Test\Tyuiu.MiliukovLO.Sprint1.Task4.V9.Test.csproj", "{178346C5-B611-4852-AADD-92EA9B94DAA5}"
 EndProject
