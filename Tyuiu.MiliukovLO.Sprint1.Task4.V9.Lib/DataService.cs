@@ -6,7 +6,7 @@ namespace Tyuiu.MiliukovLO.Sprint1.Task4.V9.Lib
     {
         public double Calculate(double x, double y)
         {
-            return Math.Round(Math.Log(x*y)/(x-(1+Math.Sqrt(y*y))), 3);
+            return Math.Round(Math.Log(x*y)/(x-(Math.Sqrt(1+Math.Pow(y,2)))), 3);
         }
     }
 }
